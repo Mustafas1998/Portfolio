@@ -1,0 +1,16 @@
+.image{
+    width: 30%;
+    height: 30%;
+    position: absolute;
+    right: 100px;
+    bottom: 0;   
+}
+
+.image img
+{
+    position: absolute;
+    height: 120%;
+    left: 10%;
+    bottom: 0;
+
+}

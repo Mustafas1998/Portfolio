@@ -1,0 +1,15 @@
+.Social a{
+    text-decoration: none;
+    color: green;
+}
+
+.Social li{
+    margin-left: 7%;
+    margin-right: -60px;
+    color: black;
+    font-size: 30px;
+}
+
+.Social a:hover{
+    color:rgb(85, 220, 85)
+}
