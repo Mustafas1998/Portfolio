@@ -32,3 +32,27 @@
     background: white;
 
 }
+
+.Information2{
+    color: black;
+    font-size: 25px;
+    font-weight: bold;
+    margin-left: 4%;
+    margin-top: 5%;
+}
+
+.Information2 h3{
+    font-size: 18;
+    letter-spacing: 1px;
+    line-height: 30px;
+    color: grey;
+    text-decoration: none;
+}
+
+.Information2 h1{
+    font-size: 40;
+    letter-spacing: 1px;
+    line-height: 24px;
+    color: green;
+    text-decoration: underline;
+}
